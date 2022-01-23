@@ -8,8 +8,13 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 ## Deliverable 1: Replace ninth-grade reading and math scores
 
 The loc method is used to select all the reading and math scores from the ninth grade at Thomas High School. 
+![image_Deliverable_one_LOC_Reading.png](Deliverable_one_LOC_Reading.png)
+
+![image_Deliverable_one_ReplaceMathNaN.png](Deliverable_one_ReplaceMathNaN.png) 
 
 The reading and math scores for the ninth graders in Thomas High school are replaced with NaNs.
+
+![image_Deliverable_one_CheckNaN](Deliverable_one_CheckNaN)
 
 
 
