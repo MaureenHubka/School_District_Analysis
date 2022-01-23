@@ -51,4 +51,9 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 The Py City School District Analysis was repeated, with Thomas High School math and reading scores replaced by NaNs.  The Thomas High School student count was also adjusted for the ninth graders that were removed.  The following differences in data were noted.
 
+![image_DelivThreeShot1.png](DelivThreeShot1.png)
+
+![image_ DelivThreeShot2.png](DelivThreeShot2.png)
+
+For Thomas High School, removing the ninth grade scores did not affect the math and reading averages. However, the removal did effect the percentage for passing math, reading and overall passing. 
 
