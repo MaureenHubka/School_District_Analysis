@@ -49,7 +49,50 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 # Deliverable 3: A written report for the school district analysis
 
+## Overview of the school district analysis: Explain the purpose of this analysis.
+
+After running analysis on the Py City School district, evidence of academic dishonesty was reported. Specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. We have been asked to remove the ninth grade scores and rerun the 
+analysis. To do this we replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We then repeated the school district analysis. This is a report to show how these changes affected the overall analysis. 
 The Py City School District Analysis was repeated, with Thomas High School math and reading scores replaced by NaNs.  The Thomas High School student count was also adjusted for the ninth graders that were removed.  The following differences in data were noted.
+
+## Results: 
+# District Summary 
+Although Thomas High School saw a dramatic decrease in the passing percentages, the removal of the ninth grade scores did have not a signigicant impact on the district percentages. Overal passing was 65% both pre and post.
+![image_ DelivThreeShot2.png](DelivThreeShot2.png)
+
+# School Summary 
+For Thomas High School, removing the ninth grade scores did not affect the math and reading averages. However, the removal did effect the percentage for passing math, reading and overall passing.  Passing percentages decreased from the 90s percentages down to the 60s percentages.
+
+![image_DelivThreeShot1.png](DelivThreeShot1.png)
+
+# Affect on School Rank 
+
+Replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools by decreasing the overall passing percentage.
+Thomas High School went from being 2nd to 8th based on the overall passing percentage decrease.
+
+
+How does replacing the ninth-grade scores affect the following:
+
+Math and reading scores by grade
+Math Scores by Grade Before:
+
+Math Scores by Grade After:
+
+Reading Scores by Grade Before:
+
+Reading Scores by Grade After:
+
+
+Scores by school spending
+Scores by school size
+Scores by school type
+Since it affected overall passing percenatages also, it may not be true reflection of how charter schools perform versus District.  
+
+![image_DelivThreeAnalysisCharter.png](DelivThreeAnalysisCharter.png)
+
+Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
 
 For Thomas High School, removing the ninth grade scores did not affect the math and reading averages. However, the removal did effect the percentage for passing math, reading and overall passing. 
 
@@ -57,11 +100,11 @@ For Thomas High School, removing the ninth grade scores did not affect the math 
 
 ![image_ DelivThreeShot2.png](DelivThreeShot2.png)
 
-Although Thomas High School saw a dramatic decrease in the passing percentages, the removal of the ninth grade scores did not have a signigicant impact on the district percentages.
+
 
 ![image_ DelivThreeShot3.png](DelivThreeShot3.png)
 
-This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. Also, since it affected overall passing paercenatages, it may not reflect a true reflection of how charter schools perform versus District.  
+This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. 
 
 
 
