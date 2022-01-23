@@ -19,14 +19,17 @@ The reading and math scores for the ninth graders in Thomas High school are repl
 ## Deliverable 2: Repeat the school district analysis
 
 The district summary:
+![image_DelivTwoShot1.png](DelivTwoShot1.png)
 
 The school summary:
+![image_DelivTwoShot2.png](DelivTwoShot2.png)
 
 The top 5 performing schools, based on the overall passing rate:
+![image_DleivTwoShot3.png](DleivTwoShot3.png)
 
 The bottom 5 performing schools, based on the overall passing rate:
 
-![image_Deliv2_BottomOverall.png](Updated_Screenshots)
+![image_DelivTwoShot4.png](DelivTwoShot4.png)
 
 
 The average math score for each grade level from each school
