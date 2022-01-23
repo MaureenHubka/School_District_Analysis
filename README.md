@@ -45,7 +45,7 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 ### The scores by school spending per student, by school size, and by school type:
 
-![image_DelivTwoShot7.png](DelivTwoShot7.png)
+![image_DelivTwoShot_7_2.png](DelivTwoShot_7_2.png)
 
 # Deliverable 3: A written report for the school district analysis
 
@@ -61,5 +61,7 @@ Although Thomas High School saw a dramatic decrease in the passing percentages, 
 
 ![image_ DelivThreeShot3.png](DelivThreeShot3.png)
 
-This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. 
+This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. Also, since it affected overall passing paercenatages, it may not reflect a true reflection of how charter schools perform versus District.  
+
+
 
