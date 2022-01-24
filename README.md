@@ -31,7 +31,7 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 ![image_DleivTwoShot3.png](DleivTwoShot3.png)
 
-## The bottom 5 performing schools, based on the overall passing rate:
+### The bottom 5 performing schools, based on the overall passing rate:
 
 ![image_DelivTwoShot4.png](DelivTwoShot4.png)
 
@@ -47,7 +47,7 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 ![image_DelivTwoShot_7_2.png](DelivTwoShot_7_2.png)
 
-# Deliverable 3: A written report for the school district analysis
+# Deliverable 3: School district analysis
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
@@ -56,6 +56,7 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 The Py City School District Analysis was repeated, with Thomas High School math and reading scores replaced by NaNs.  The Thomas High School student count was also adjusted for the ninth graders that were removed.  The following aspects the data were noted.
 
 ## Results: 
+
 ### District Summary 
 Although Thomas High School saw a dramatic decrease in the passing percentages, the removal of the ninth grade scores did have not a significant impact on the district percentages. Overal passing was 65% both pre and post, with the exception of a few tenths of a point.
 
@@ -78,34 +79,46 @@ Thomas High School went from being 2nd to 8th based on the overall passing perce
 
 ![image_DelivThreeTopAfter.png](DelivThreeTopAfter.png)
 
- ## Ninth-grade scores:
-Math and reading scrore were not affected, other than the lack of data for ninth graders at Thomas High School
+### Ninth-grade scores:
+Math and reading scrore were not affected, other than the lack of data for ninth graders at Thomas High School.
 
-Math Scores by Grade Before:
+### Math Scores by Grade Before:
 
 ![image_ DelivThreeMathBeforebyGrade.png]( DelivThreeMathBeforebyGrade.png)
 
-Math Scores by Grade After:
+### Math Scores by Grade After:
 
 ![image_DelivThreeMathAfterbyGrade.png](DelivThreeMathAfterbyGrade.png)
 
-Reading Scores by Grade Before:
+### Reading Scores by Grade Before:
 
 ![image_DelivThreeReadingBefore.png](DelivThreeReadingBefore.png)
-Reading Scores by Grade After:
+
+### Reading Scores by Grade After:
 
 ![image_DelivThreeReadingAfter.png](DelivThreeReadingAfter.png)
 
-Scores by school spending
-Scores by school size
-Scores by school type
+### Scores by school, spending, school size,school, type
+Scores by school spending and size, were not affected by the change. However, charter school overall passing percentage dropped from 90 to 87.
+
+### Scores by school, spending and school size Before:
+![image_DelivThreeSpendingPre.png](DelivThreeSpendingPre.png)
+
+### Scores by school, spending and school size After:
+![image_DelivTwoShot_7_2.png](DelivTwoShot_7_2.png)
+
+### School type:
 
 ![image_DelivThreeAnalysisCharter.png](DelivThreeAnalysisCharter.png)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary:  
+Four changes that were noted in the updated school district analysis after, reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, include the following:
+ 
+ Percent passing math for Thoams High School decreased from 93.27 to 66.91.
+ Percent passing reading for Thoams High School decreased from 97.3 to 66.63.
+ Overall passing percentage for Thoams High School decreased from 90.94 to 66.07.
+ Thomas High School rank compare to other schools decreased from 2nd place to 8th place.
 
-
-This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. 
-
+This reapeated analysis can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. This also affected the presentation of charter school analysis, as the charter school overall passing percentage dropped from 90 to 87.  
 
 
