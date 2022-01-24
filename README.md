@@ -53,7 +53,7 @@ analysis. To do this we replaced the math and reading scores for Thomas High Sch
 
 After running analysis on the Py City School district, evidence of academic dishonesty was reported. Specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. We have been asked to remove the ninth grade scores and rerun the 
 analysis. To do this we replaced the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. We then repeated the school district analysis. This is a report to show how these changes affected the overall analysis. 
-The Py City School District Analysis was repeated, with Thomas High School math and reading scores replaced by NaNs.  The Thomas High School student count was also adjusted for the ninth graders that were removed.  The following differences in data were noted.
+The Py City School District Analysis was repeated, with Thomas High School math and reading scores replaced by NaNs.  The Thomas High School student count was also adjusted for the ninth graders that were removed.  The following aspects the data were noted.
 
 ## Results: 
 ### District Summary 
@@ -69,16 +69,18 @@ For Thomas High School, removing the ninth grade scores did not affect the math 
 ![image_ DelivThreeShot2.png](DelivThreeShot2.png)
 
 
-### Affect on School Rank 
+### School Rank 
 
 Replacing the ninth graders’ math and reading scores affected Thomas High School’s performance relative to the other schools by decreasing the overall passing percentage.
 Thomas High School went from being 2nd to 8th based on the overall passing percentage decrease.
 
-![image_DelivThreeShot1.png](DelivThreeShot1.png)
+![image_DelivThreeTopBefore.png](DelivThreeTopBefore.png)
 
-How does replacing the ninth-grade scores affect the following
+![image_DelivThreeTopAfter.png](DelivThreeTopAfter.png)
 
-Math and reading scores by grade
+ ## Ninth-grade scores:
+Math and reading scrore were not affected, other than the lack of data for ninth graders at Thomas High School
+
 Math Scores by Grade Before:
 
 ![image_ DelivThreeMathBeforebyGrade.png]( DelivThreeMathBeforebyGrade.png)
@@ -97,17 +99,10 @@ Reading Scores by Grade After:
 Scores by school spending
 Scores by school size
 Scores by school type
-Since it affected overall passing percenatages also, it may not be true reflection of how charter schools perform versus District.  
 
 ![image_DelivThreeAnalysisCharter.png](DelivThreeAnalysisCharter.png)
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-
-
-
-
+## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
 This reapeated analysisc can have a significant impact on future budgeting for Thomas High School.  The school may get extra monies, becasue it appears they need it to bring up overall percentage of passing scores. On the other hand, school adminsitrator and teacher evaluations or bonuses may be negatively affected. 
